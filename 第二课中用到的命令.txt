@@ -1,0 +1,22 @@
+部署代理IP环境的命令
+wget --no-check-certificate https://freed.ga/github/shadowsocksR.sh; bash shadowsocksR.sh
+
+
+如果你运行以上命令， 直接提示你  ： wget :command not found
+说明你购买的CentOS 7系统 没有安装运行环境，需要先执行命令：yum install wget -y
+一般安装yum install wget -y  一定要运行完毕， 大概1分钟
+
+
+
+
+
+
+这6节课程是你要从事这个行业,必修的入门课程,必须完全掌握,每一节课的内容如果你自己摸索需要很久时间, 如果你跳过任何一节课,可能会导致你走弯路。
+
+服务器 IP:  65.20.68.26 
+服务器 端口:  13142 
+连接密码:  ifcanlove 
+加密:  aes-256-cfb 
+协议:  auth_sha1_v4 
+混淆:  http_simple 
+
